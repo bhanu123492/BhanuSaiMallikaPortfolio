@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "//BhanuSaiMallikaPortfolio/static/css/main.6424e648.css",
-    "main.js": "//BhanuSaiMallikaPortfolio/static/js/main.1f0a0f71.js",
-    "static/js/453.906b0208.chunk.js": "//BhanuSaiMallikaPortfolio/static/js/453.906b0208.chunk.js",
-    "static/media/project_2.png": "//BhanuSaiMallikaPortfolio/static/media/project_2.624ad25638f15a3d444d.png",
-    "static/media/chittinedibhanusaimallika.pdf": "//BhanuSaiMallikaPortfolio/static/media/chittinedibhanusaimallika.c40d7d083291771dd112.pdf",
-    "static/media/logo1-removebg-preview.png": "//BhanuSaiMallikaPortfolio/static/media/logo1-removebg-preview.443156d40d709397f72a.png",
-    "static/media/profile_img.svg.jpg": "//BhanuSaiMallikaPortfolio/static/media/profile_img.svg.44a7047ee1c1b4367ded.jpg",
-    "static/media/project_1.png": "//BhanuSaiMallikaPortfolio/static/media/project_1.761edbf7dd3616880156.png",
-    "static/media/call_icon.svg": "//BhanuSaiMallikaPortfolio/static/media/call_icon.fec62cc3d3fb69f5ce5f05a0724a0425.svg",
-    "static/media/user_icon.svg": "//BhanuSaiMallikaPortfolio/static/media/user_icon.5c0ce6f918770ec5f3046cdf624dfee9.svg",
-    "static/media/mail_icon.svg": "//BhanuSaiMallikaPortfolio/static/media/mail_icon.9eae5516c8c1364a170e8b13ae4c18cf.svg",
-    "index.html": "//BhanuSaiMallikaPortfolio/index.html",
-    "static/media/menu_close.svg": "//BhanuSaiMallikaPortfolio/static/media/menu_close.d7bcdac2acc8f22501cacb6bbabbb700.svg",
-    "static/media/nav_underline.svg": "//BhanuSaiMallikaPortfolio/static/media/nav_underline.c56cde277213bbba5816c05ee4d24f73.svg",
-    "static/media/theme_pattern.svg": "//BhanuSaiMallikaPortfolio/static/media/theme_pattern.92278b3dbc4b903482e1d44b040aa98f.svg",
-    "static/media/location_icon.svg": "//BhanuSaiMallikaPortfolio/static/media/location_icon.111157f177e78ee2c0025016c0206379.svg",
-    "static/media/arrow_icon.svg": "//BhanuSaiMallikaPortfolio/static/media/arrow_icon.866a8d83b9723eed11e169d98d66ebc7.svg",
-    "static/media/menu_open.svg": "//BhanuSaiMallikaPortfolio/static/media/menu_open.f6a63a18e3c68d807e50b1037f3e3555.svg",
-    "main.6424e648.css.map": "//BhanuSaiMallikaPortfolio/static/css/main.6424e648.css.map",
-    "main.1f0a0f71.js.map": "//BhanuSaiMallikaPortfolio/static/js/main.1f0a0f71.js.map",
-    "453.906b0208.chunk.js.map": "//BhanuSaiMallikaPortfolio/static/js/453.906b0208.chunk.js.map"
+    "main.css": "/BhanuSaiMallikaPortfolio/static/css/main.6424e648.css",
+    "main.js": "/BhanuSaiMallikaPortfolio/static/js/main.9b5e7fd1.js",
+    "static/js/453.906b0208.chunk.js": "/BhanuSaiMallikaPortfolio/static/js/453.906b0208.chunk.js",
+    "static/media/project_2.png": "/BhanuSaiMallikaPortfolio/static/media/project_2.624ad25638f15a3d444d.png",
+    "static/media/chittinedibhanusaimallika.pdf": "/BhanuSaiMallikaPortfolio/static/media/chittinedibhanusaimallika.c40d7d083291771dd112.pdf",
+    "static/media/logo1-removebg-preview.png": "/BhanuSaiMallikaPortfolio/static/media/logo1-removebg-preview.443156d40d709397f72a.png",
+    "static/media/profile_img.svg.jpg": "/BhanuSaiMallikaPortfolio/static/media/profile_img.svg.44a7047ee1c1b4367ded.jpg",
+    "static/media/project_1.png": "/BhanuSaiMallikaPortfolio/static/media/project_1.761edbf7dd3616880156.png",
+    "static/media/call_icon.svg": "/BhanuSaiMallikaPortfolio/static/media/call_icon.fec62cc3d3fb69f5ce5f05a0724a0425.svg",
+    "static/media/user_icon.svg": "/BhanuSaiMallikaPortfolio/static/media/user_icon.5c0ce6f918770ec5f3046cdf624dfee9.svg",
+    "static/media/mail_icon.svg": "/BhanuSaiMallikaPortfolio/static/media/mail_icon.9eae5516c8c1364a170e8b13ae4c18cf.svg",
+    "index.html": "/BhanuSaiMallikaPortfolio/index.html",
+    "static/media/menu_close.svg": "/BhanuSaiMallikaPortfolio/static/media/menu_close.d7bcdac2acc8f22501cacb6bbabbb700.svg",
+    "static/media/nav_underline.svg": "/BhanuSaiMallikaPortfolio/static/media/nav_underline.c56cde277213bbba5816c05ee4d24f73.svg",
+    "static/media/theme_pattern.svg": "/BhanuSaiMallikaPortfolio/static/media/theme_pattern.92278b3dbc4b903482e1d44b040aa98f.svg",
+    "static/media/location_icon.svg": "/BhanuSaiMallikaPortfolio/static/media/location_icon.111157f177e78ee2c0025016c0206379.svg",
+    "static/media/arrow_icon.svg": "/BhanuSaiMallikaPortfolio/static/media/arrow_icon.866a8d83b9723eed11e169d98d66ebc7.svg",
+    "static/media/menu_open.svg": "/BhanuSaiMallikaPortfolio/static/media/menu_open.f6a63a18e3c68d807e50b1037f3e3555.svg",
+    "main.6424e648.css.map": "/BhanuSaiMallikaPortfolio/static/css/main.6424e648.css.map",
+    "main.9b5e7fd1.js.map": "/BhanuSaiMallikaPortfolio/static/js/main.9b5e7fd1.js.map",
+    "453.906b0208.chunk.js.map": "/BhanuSaiMallikaPortfolio/static/js/453.906b0208.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6424e648.css",
-    "static/js/main.1f0a0f71.js"
+    "static/js/main.9b5e7fd1.js"
   ]
 }
