@@ -24,7 +24,7 @@ const Footer = () => {
         <div className='footer-bottom'>
           <p className='footer-bottom-left'>2024 Bhanu Chittinedi. All rights</p>
           <div className='footer-bottom-right'>
-            <p>Term of Services</p>
+            <p>Term and Condition for Services</p>
             <p>Privacy policy</p>
             <p>Connect with me</p>
           </div>
